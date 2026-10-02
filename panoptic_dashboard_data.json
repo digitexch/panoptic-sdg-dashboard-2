@@ -1,0 +1,1116 @@
+{
+ "principles": [
+  {
+   "id": "PP1",
+   "name": "Innovation supporting equitable development",
+   "short": "Innovation",
+   "w": 16
+  },
+  {
+   "id": "PP2",
+   "name": "Resilient, sustainable and regenerative systems",
+   "short": "Resilience",
+   "w": 24
+  },
+  {
+   "id": "PP3",
+   "name": "Stakeholder value, trust and spatial justice",
+   "short": "Stakeholder value",
+   "w": 32
+  },
+  {
+   "id": "PP4",
+   "name": "Transversal planning and governance",
+   "short": "Governance",
+   "w": 28
+  }
+ ],
+ "subs": [
+  {
+   "id": "PP1.1",
+   "p": "PP1",
+   "name": "Infrastructure Design and Material Innovation",
+   "short": "Design & material innovation",
+   "w": 8,
+   "crit": "Integrate prescribed planning frameworks to promote innovation in infrastructure design, and infrastructure material use aligned to national and local development goals.",
+   "q": "Does the project offer clear evidence of compliance to design innovations pertaining to key planning prescripts and construction material use across the 3 spheres of government?",
+   "why": "Innovative, sustainable infrastructure design and material use improve resource efficiency while aligning projects with national and local development plans.",
+   "pres": "NT/PFMA; MTEF; NDP; NIP 2050; NSDF; NLTF; WCSDF 2035; MSDF; PLTF; PSP 2025-2030; G4J; WCIF; WCEIIF; CC response strategy; Green BCSA; SABS; BSA; NDC; CCA 2024; JTF; WCCCRS; MTSF; CIDB; CIF; CEF; C-AMP (GIAMA); U-AMP (GIAMA)."
+  },
+  {
+   "id": "PP1.2",
+   "p": "PP1",
+   "name": "ICT Innovation",
+   "short": "ICT innovation",
+   "w": 8,
+   "crit": "Promote innovation in ICT to enhance ease of doing business and government processes, driving economic and governance efficiencies.",
+   "q": "Does the project offer clear evidence of compliance to ICT innovations and/or efficiencies like ease-of-doing-business and/or ease-of-doing-government?",
+   "why": "Digital infrastructure and ICT innovation improve business processes, public-service delivery, information access and institutional efficiency.",
+   "pres": "NDP; SITA; G4J; WCIF; PSP 2025-2030; PLTF; MTSF."
+  },
+  {
+   "id": "PP2.1",
+   "p": "PP2",
+   "name": "Resilient Infrastructure Design and Risk Mitigation",
+   "short": "Resilient design & risk",
+   "w": 8,
+   "crit": "Align infrastructure design with resilience principles to address climate change, sustainability, and regenerative practices. It must also address water, energy, and disaster management through proactive risk mitigation strategies and policies.",
+   "q": "Does the project offer clear evidence of innovations that foster resilience and regenerative aspects of the infrastructure value chain; and are there risk mitigation strategies in place?",
+   "why": "Directly addresses climate resilience, disaster-risk reduction, water and energy management, sustainability and regenerative design.",
+   "pres": "WCIF; PLTF; NDC; CCA 2024; JTF; WCCCRS; WCEIIF; Green BCSA; UIDG; CIDB; CIF; CEF; IGM; C-AMP (GIAMA); U-AMP (GIAMA)."
+  },
+  {
+   "id": "PP2.2",
+   "p": "PP2",
+   "name": "Infrastructure Planning for Systemic Alignment",
+   "short": "Systemic planning alignment",
+   "w": 8,
+   "crit": "Integrated and collaborative planning ensures alignment across spatial, economic, and environmental systems, serving as the foundation for sustainable infrastructure value chains and ecosystems.",
+   "q": "Does the project offer clear evidence of alignment, integration and collaboration across the WC infrastructure ecosystem?",
+   "why": "Integrated spatial, economic and environmental planning creates coherent infrastructure systems and sustainable value chains.",
+   "pres": "NT/PFMA; MTEF; NDP; NIP 2050; NSDF; NLTF; WCSDF 2035; MSDF; PLTF; PSP 2025-2030; G4J; WCIF; IUDF; IDWRP; EPWP; GPS (DEA&DP 2024); MFMA; CEF; UIDG; COGTA; CIDB; LTFP; IGM; SDBIP; C-AMP (GIAMA); U-AMP (GIAMA)."
+  },
+  {
+   "id": "PP2.3",
+   "p": "PP2",
+   "name": "Localised Resource Utilisation",
+   "short": "Localised resources",
+   "w": 8,
+   "crit": "Reduce socio-ecological costs by sourcing inputs locally and minimising resource transportation needs (this includes consideration of Biodiversity Offsets).",
+   "q": "Does the project offer clear evidence of innovations that foster resilience, sustainable and regenerative aspects in the infrastructure and project value chains at a local level?",
+   "why": "Local sourcing and sustainable procurement reduce transport impacts, embodied emissions and resource costs while stimulating local economies.",
+   "pres": "NDC; CCA 2024; JTF; Green BCSA; King IV; WCIF; WCCCRS; WCEIIF; CIDB; C-AMP (GIAMA); U-AMP (GIAMA)."
+  },
+  {
+   "id": "PP3.1",
+   "p": "PP3",
+   "name": "Geolocation relative to Spatial Zones",
+   "short": "Spatial-zone geolocation",
+   "w": 8,
+   "crit": "Align infrastructure development to counter spatial inaccessibility via equitable access, capacity building and knowledge management of spatial justice.",
+   "q": "Does the project offer clear evidence of sustainable stakeholder value fostering trust in context of spatial justice and improved access to infrastructure?",
+   "why": "Locating infrastructure strategically can reduce spatial exclusion and improve equitable access to services, opportunities, knowledge and capacity.",
+   "pres": "SDGs; NDP; NIP 2050; SPLUMA; NSDF; WCSDF 2030; PSP 2025-2030; MSDF; WCIF; PLTF; GPS; State of Development Planning Report and Spatial Performance Report (DEA&DP 2024); RPG-TWG; DEA&DP (Development Planning Report + Spatial Performance Report 2024); CEF; UIDF; MTSF; COGTA; CIF; SDBIP; U-AMP (GIAMA); C-AMP (GIAMA). All planned interventions (projects & programs) to be geo-located & spatially represented, including their expenditure to be expressed spatially."
+  },
+  {
+   "id": "PP3.2",
+   "p": "PP3",
+   "name": "Public Value and Spatial Justice Innovations",
+   "short": "Public value & spatial justice",
+   "w": 8,
+   "crit": "Deliver equitable public value while addressing spatial inequities through innovative projects, fostering inclusive planning & development, with a focus on WYPD.",
+   "q": "Does the project offer clear evidence of innovations to counter spatial inequalities, to promote inclusive planning and development?",
+   "why": "Promotes equitable public value, inclusive planning and innovative interventions that correct historic and geographic inequalities.",
+   "pres": "NSDF; WCSDF 2030; MSDF; WCIF (MOIP); PLTF; GPS; DEA&DP (Development Planning Report + Spatial Performance Report 2024); UIDF; UIDG; CIF; CEF; SDBIP."
+  },
+  {
+   "id": "PP3.3",
+   "p": "PP3",
+   "name": "Partnerships and Localisation Compliance",
+   "short": "Partnerships & localisation",
+   "w": 16,
+   "crit": "Effective partnerships that demonstrates  implementation innovation regarding Risk-Reward sharing; And the use of localised value chains to deliver socio-economic benefits, trust, and stakeholder equity.",
+   "q": "Does the project offer clear evidence of desired Partnership models favouring equitable Localised value chain development and risk-sharing?",
+   "why": "Fair risk-and-reward arrangements, stakeholder trust and local value chains support equitable partnerships and locally retained socio-economic benefits.",
+   "pres": "NT/PFMA; MTEF; NDP; NIP 2050; NLTF; PLTF; NSDF; PSDF; MSDF; PSP 2025-2030; G4J; WCIF; BSA; SABS; UIDF; MTSF; COGTA; CIDB; MSDG; IGM."
+  },
+  {
+   "id": "PP4.1",
+   "p": "PP4",
+   "name": "Funding, Financing and Budget Governance and Compliance",
+   "short": "Funding & budget compliance",
+   "w": 20,
+   "crit": "Compliance with provincial, national and international financial and budgetary frameworks to ensure funding sustainability and fiscal discipline.",
+   "q": "Does the project offer funding and financing governance frameworks (financial model, etc.) and  PFMA and MFMA budgetary compliances; and taking into consideration the IFRS when necessary?",
+   "why": "Compliance with financial and budget frameworks strengthens fiscal discipline, accountability, institutional effectiveness and sustainable infrastructure funding.",
+   "pres": "NT/PFMA; MTEF; NDP; NIP 2050; PT; G4J; WCIF; MFMA; MTSF; CEF; UIDG; COGTA; LTFP; CIP; IGM; SDIP; C-AMP (GIAMA); U-AMP (GIAMA)."
+  },
+  {
+   "id": "PP4.2",
+   "p": "PP4",
+   "name": "Socio-economic Compliance",
+   "short": "Socio-economic compliance",
+   "w": 8,
+   "crit": "Adherence to socio-economic planning frameworks and policies, aligning infrastructure projects with growth development priorities and policy objectives as part of effective governance and transversal planning (also take into consideration decommissioning and repurposing).",
+   "q": "Does the project offer clear evidence of alignment of socio-economic growth and development priorities required by transversal planning prescripts?",
+   "why": "Alignment with socio-economic policies and development priorities enables accountable governance, coordinated planning and inclusive growth.",
+   "pres": "NSDF; WCSDF 2030; MSDF; WCIF; PLTF; MOIP; G4J; UID; MTSF; COGTA; CIDB; LTFP; CIF; CEF; SDBIP."
+  }
+ ],
+ "sdgs": [
+  {
+   "n": 1,
+   "name": "No Poverty",
+   "title": "End poverty in all its forms everywhere",
+   "c": "#E5243B"
+  },
+  {
+   "n": 2,
+   "name": "Zero Hunger",
+   "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+   "c": "#DDA63A"
+  },
+  {
+   "n": 3,
+   "name": "Good Health and Well-being",
+   "title": "Ensure healthy lives and promote well-being for all at all ages",
+   "c": "#4C9F38"
+  },
+  {
+   "n": 4,
+   "name": "Quality Education",
+   "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+   "c": "#C5192D"
+  },
+  {
+   "n": 5,
+   "name": "Gender Equality",
+   "title": "Achieve gender equality and empower all women and girls",
+   "c": "#FF3A21"
+  },
+  {
+   "n": 6,
+   "name": "Clean Water and Sanitation",
+   "title": "Ensure availability and sustainable management of water and sanitation for all",
+   "c": "#26BDE2"
+  },
+  {
+   "n": 7,
+   "name": "Affordable and Clean Energy",
+   "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
+   "c": "#FCC30B"
+  },
+  {
+   "n": 8,
+   "name": "Decent Work and Economic Growth",
+   "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+   "c": "#A21942"
+  },
+  {
+   "n": 9,
+   "name": "Industry, Innovation and Infrastructure",
+   "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+   "c": "#FD6925"
+  },
+  {
+   "n": 10,
+   "name": "Reduced Inequalities",
+   "title": "Reduce inequality within and among countries",
+   "c": "#DD1367"
+  },
+  {
+   "n": 11,
+   "name": "Sustainable Cities and Communities",
+   "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+   "c": "#FD9D24"
+  },
+  {
+   "n": 12,
+   "name": "Responsible Consumption and Production",
+   "title": "Ensure sustainable consumption and production patterns",
+   "c": "#BF8B2E"
+  },
+  {
+   "n": 13,
+   "name": "Climate Action",
+   "title": "Take urgent action to combat climate change and its impacts",
+   "c": "#3F7E44"
+  },
+  {
+   "n": 14,
+   "name": "Life Below Water",
+   "title": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+   "c": "#0A97D9"
+  },
+  {
+   "n": 15,
+   "name": "Life on Land",
+   "title": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+   "c": "#56C02B"
+  },
+  {
+   "n": 16,
+   "name": "Peace, Justice and Strong Institutions",
+   "title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+   "c": "#00689D"
+  },
+  {
+   "n": 17,
+   "name": "Partnerships for the Goals",
+   "title": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+   "c": "#19486A"
+  }
+ ],
+ "targets": {
+  "9.1": {
+   "g": 9,
+   "s": "Quality, resilient infrastructure",
+   "t": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+  },
+  "9.4": {
+   "g": 9,
+   "s": "Sustainable, retrofitted infrastructure",
+   "t": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+  },
+  "9.5": {
+   "g": 9,
+   "s": "Research and technological capability",
+   "t": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+  },
+  "8.2": {
+   "g": 8,
+   "s": "Productivity through innovation",
+   "t": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+  },
+  "11.3": {
+   "g": 11,
+   "s": "Inclusive, integrated urban planning",
+   "t": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries"
+  },
+  "12.2": {
+   "g": 12,
+   "s": "Sustainable use of natural resources",
+   "t": "By 2030, achieve the sustainable management and efficient use of natural resources"
+  },
+  "9.c": {
+   "g": 9,
+   "s": "Access to ICT and the internet",
+   "t": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020"
+  },
+  "16.6": {
+   "g": 16,
+   "s": "Effective, accountable institutions",
+   "t": "Develop effective, accountable and transparent institutions at all levels"
+  },
+  "16.10": {
+   "g": 16,
+   "s": "Public access to information",
+   "t": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements"
+  },
+  "17.8": {
+   "g": 17,
+   "s": "Enabling technology and ICT",
+   "t": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology"
+  },
+  "13.1": {
+   "g": 13,
+   "s": "Climate resilience and adaptive capacity",
+   "t": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries"
+  },
+  "13.2": {
+   "g": 13,
+   "s": "Climate measures in plans and policies",
+   "t": "Integrate climate change measures into national policies, strategies and planning"
+  },
+  "6.4": {
+   "g": 6,
+   "s": "Water-use efficiency",
+   "t": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+  },
+  "6.5": {
+   "g": 6,
+   "s": "Integrated water resources management",
+   "t": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate"
+  },
+  "7.2": {
+   "g": 7,
+   "s": "Renewable energy share",
+   "t": "By 2030, increase substantially the share of renewable energy in the global energy mix"
+  },
+  "7.3": {
+   "g": 7,
+   "s": "Energy efficiency",
+   "t": "By 2030, double the global rate of improvement in energy efficiency"
+  },
+  "11.5": {
+   "g": 11,
+   "s": "Reduced disaster losses",
+   "t": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations"
+  },
+  "11.b": {
+   "g": 11,
+   "s": "Integrated climate and disaster-risk policies",
+   "t": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels"
+  },
+  "11.a": {
+   "g": 11,
+   "s": "Urban–rural planning links",
+   "t": "Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning"
+  },
+  "17.14": {
+   "g": 17,
+   "s": "Policy coherence",
+   "t": "Enhance policy coherence for sustainable development"
+  },
+  "17.16": {
+   "g": 17,
+   "s": "Multi-stakeholder partnerships",
+   "t": "Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries"
+  },
+  "17.17": {
+   "g": 17,
+   "s": "Public, public-private and civil society partnerships",
+   "t": "Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships"
+  },
+  "12.7": {
+   "g": 12,
+   "s": "Sustainable public procurement",
+   "t": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities"
+  },
+  "8.3": {
+   "g": 8,
+   "s": "Enterprise and small-business growth",
+   "t": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+  },
+  "11.6": {
+   "g": 11,
+   "s": "Lower urban environmental impact",
+   "t": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+  },
+  "11.1": {
+   "g": 11,
+   "s": "Adequate housing and basic services",
+   "t": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+  },
+  "11.2": {
+   "g": 11,
+   "s": "Sustainable transport systems",
+   "t": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons"
+  },
+  "4.4": {
+   "g": 4,
+   "s": "Relevant skills for work",
+   "t": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+  },
+  "10.2": {
+   "g": 10,
+   "s": "Social, economic and political inclusion",
+   "t": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status"
+  },
+  "1.4": {
+   "g": 1,
+   "s": "Equal access to basic services and resources",
+   "t": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance"
+  },
+  "16.7": {
+   "g": 16,
+   "s": "Inclusive, participatory decision-making",
+   "t": "Ensure responsive, inclusive, participatory and representative decision-making at all levels"
+  },
+  "8.5": {
+   "g": 8,
+   "s": "Full employment and decent work",
+   "t": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+  },
+  "17.1": {
+   "g": 17,
+   "s": "Domestic resource mobilisation",
+   "t": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+  },
+  "17.3": {
+   "g": 17,
+   "s": "Additional financial resources",
+   "t": "Mobilize additional financial resources for developing countries from multiple sources"
+  },
+  "17.4": {
+   "g": 17,
+   "s": "Debt sustainability",
+   "t": "Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress"
+  }
+ },
+ "links": [
+  {
+   "s": "PP1.1",
+   "t": "9.1",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP1.1",
+   "t": "9.4",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP1.1",
+   "t": "9.5",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP1.1",
+   "t": "8.2",
+   "a": "S",
+   "src": "E",
+   "l": "innovation-led productivity",
+   "r": ""
+  },
+  {
+   "s": "PP1.1",
+   "t": "11.3",
+   "a": "S",
+   "src": "E",
+   "l": "integrated urban planning",
+   "r": ""
+  },
+  {
+   "s": "PP1.1",
+   "t": "12.2",
+   "a": "S",
+   "src": "E",
+   "l": "efficient use of natural resources",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "9.5",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "9.c",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "8.2",
+   "a": "S",
+   "src": "E",
+   "l": "technological upgrading",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "16.6",
+   "a": "S",
+   "src": "E",
+   "l": "effective institutions",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "16.10",
+   "a": "S",
+   "src": "E",
+   "l": "access to information",
+   "r": ""
+  },
+  {
+   "s": "PP1.2",
+   "t": "17.8",
+   "a": "S",
+   "src": "E",
+   "l": "enabling technology",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "9.1",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "13.1",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "13.2",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "6.4",
+   "a": "S",
+   "src": "E",
+   "l": "water efficiency and integrated management",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "6.5",
+   "a": "S",
+   "src": "E",
+   "l": "water efficiency and integrated management",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "7.2",
+   "a": "S",
+   "src": "E",
+   "l": "renewable energy and energy efficiency",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "7.3",
+   "a": "S",
+   "src": "E",
+   "l": "renewable energy and energy efficiency",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "11.5",
+   "a": "S",
+   "src": "E",
+   "l": "disaster resilience",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "11.b",
+   "a": "S",
+   "src": "E",
+   "l": "disaster resilience",
+   "r": ""
+  },
+  {
+   "s": "PP2.1",
+   "t": "12.2",
+   "a": "S",
+   "src": "E",
+   "l": "sustainable resource use",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "11.3",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "11.a",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "9.1",
+   "a": "S",
+   "src": "E",
+   "l": "sustainable infrastructure",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "13.2",
+   "a": "S",
+   "src": "E",
+   "l": "climate integration",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "17.14",
+   "a": "S",
+   "src": "E",
+   "l": "policy coherence",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "17.16",
+   "a": "S",
+   "src": "E",
+   "l": "partnerships",
+   "r": ""
+  },
+  {
+   "s": "PP2.2",
+   "t": "17.17",
+   "a": "S",
+   "src": "E",
+   "l": "partnerships",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "12.2",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "12.7",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "8.3",
+   "a": "S",
+   "src": "E",
+   "l": "local enterprise development",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "9.4",
+   "a": "S",
+   "src": "E",
+   "l": "resource-efficient industry",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "11.6",
+   "a": "S",
+   "src": "E",
+   "l": "lower urban environmental impact",
+   "r": ""
+  },
+  {
+   "s": "PP2.3",
+   "t": "13.2",
+   "a": "S",
+   "src": "E",
+   "l": "climate considerations",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "11.1",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "11.2",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "11.3",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "11.a",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "4.4",
+   "a": "S",
+   "src": "E",
+   "l": "skills and capacity development",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "9.1",
+   "a": "S",
+   "src": "E",
+   "l": "equitable access to infrastructure",
+   "r": ""
+  },
+  {
+   "s": "PP3.1",
+   "t": "10.2",
+   "a": "S",
+   "src": "E",
+   "l": "social and economic inclusion",
+   "r": ""
+  },
+  {
+   "s": "PP3.2",
+   "t": "10.2",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.2",
+   "t": "11.3",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.2",
+   "t": "1.4",
+   "a": "S",
+   "src": "E",
+   "l": "access to basic services and economic resources",
+   "r": ""
+  },
+  {
+   "s": "PP3.2",
+   "t": "9.1",
+   "a": "S",
+   "src": "E",
+   "l": "affordable and equitable access",
+   "r": ""
+  },
+  {
+   "s": "PP3.2",
+   "t": "16.7",
+   "a": "S",
+   "src": "E",
+   "l": "inclusive decision-making",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "17.16",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "17.17",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "8.3",
+   "a": "S",
+   "src": "E",
+   "l": "enterprise and decent work",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "8.5",
+   "a": "S",
+   "src": "E",
+   "l": "enterprise and decent work",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "10.2",
+   "a": "S",
+   "src": "E",
+   "l": "inclusion",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "12.7",
+   "a": "S",
+   "src": "E",
+   "l": "sustainable procurement",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "16.6",
+   "a": "S",
+   "src": "E",
+   "l": "accountability and participation",
+   "r": ""
+  },
+  {
+   "s": "PP3.3",
+   "t": "16.7",
+   "a": "S",
+   "src": "E",
+   "l": "accountability and participation",
+   "r": ""
+  },
+  {
+   "s": "PP4.1",
+   "t": "16.6",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP4.1",
+   "t": "17.1",
+   "a": "S",
+   "src": "E",
+   "l": "domestic resource mobilisation",
+   "r": ""
+  },
+  {
+   "s": "PP4.1",
+   "t": "17.3",
+   "a": "S",
+   "src": "E",
+   "l": "additional financial resources",
+   "r": ""
+  },
+  {
+   "s": "PP4.1",
+   "t": "17.4",
+   "a": "S",
+   "src": "E",
+   "l": "long-term financial sustainability",
+   "r": ""
+  },
+  {
+   "s": "PP4.1",
+   "t": "17.14",
+   "a": "S",
+   "src": "E",
+   "l": "policy coherence",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "16.6",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "16.7",
+   "a": "P",
+   "src": "E",
+   "l": "",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "8.3",
+   "a": "S",
+   "src": "E",
+   "l": "development-oriented policies",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "10.2",
+   "a": "S",
+   "src": "E",
+   "l": "inclusion",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "11.a",
+   "a": "S",
+   "src": "E",
+   "l": "alignment of spatial and development planning",
+   "r": ""
+  },
+  {
+   "s": "PP4.2",
+   "t": "17.14",
+   "a": "S",
+   "src": "E",
+   "l": "policy coherence",
+   "r": ""
+  }
+ ],
+ "meta": {
+  "framework": "UNSD global indicator framework, after the March 2026 refinement",
+  "source": "department Panoptic-to-SDG alignment (primary and secondary columns)",
+  "prepared": "2 October 2026",
+  "workbook": "data/Panoptic_SDG_database_department.xlsx",
+  "features": {
+   "indicators": false,
+   "scoring": true
+  },
+  "public": false
+ },
+ "projects": [
+  {
+   "id": "P001",
+   "name": "Elsies River CHC and BFI Sub",
+   "dept": "Department of Health",
+   "loc": "Groote Schuur Hospital",
+   "sector": "Social",
+   "stage": "Stage 3 – Design Development",
+   "lead": "Milne van Leeuwen",
+   "date": "10 September 2025",
+   "evals": [
+    {
+     "n": "Chris Maud",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {
+      "PP1.1": "Highly specified work. Skills for Installations and infrastructure is local",
+      "PP1.2": "Limiting of systems which then allows ease of operations; Can be operated remotely",
+      "PP2.1": "Regenerating sustainability; Risk mitigation",
+      "PP2.2": "Collaborative planning approach; supports ecosystem viability",
+      "PP2.3": "Supervisory system which makes it easier to run the hospital (makes maintenance easier); Various ways you can monitor power flow through the network",
+      "PP3.1": "Supports concept of spatial justice as makes it sustainable platform of operations within a new primary system; Derisking the facility; Improving the accessibility of Groote Schuur",
+      "PP3.2": "Same argument as principle 3.1",
+      "PP3.3": "Management contractor runs procurement process. Which is limited",
+      "PP4.1": "PFMA, Governance, all qualified audits are good (aligned to all prescripts)",
+      "PP4.2": "Enables sustainable developments on precinct; less job opportunities will be created- takes score down to a 3"
+     }
+    },
+    {
+     "n": "Bitshoko Chauice",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {}
+    },
+    {
+     "n": "Milne van Leeuwen",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {
+      "PP1.1": "Limited technology available; Mostly imported tech; do have local skills that can sell and maintain tech; Similar to new installations such as Tygerberg",
+      "PP1.2": "Fiber system linking electronics; remotely able to operate the system from a central point; SETA component is separate to this as it has to run on a separate ethernet; So largely standalone (separate ethernet network); Protection of cyber attack - need to understand how system runs on the speed",
+      "PP2.1": "Regenerating sustainability; Risk mitigation",
+      "PP2.2": "Collaborative planning approach; supports ecosystem viability",
+      "PP2.3": "Supervisory system which makes it easier to run the hospital (makes maintenance easier); Various ways you can monitor power flow through the network",
+      "PP3.1": "Supports concept of spatial justice as makes it sustainable platform of operations within a new primary system; Derisking the facility; Improving the accessibility of Groote Schuur",
+      "PP3.2": "Same argument as principle 3.1",
+      "PP3.3": "Management contractor runs procurement process. Which is limited",
+      "PP4.1": "PFMA, Governance, all qualified audits are good (aligned to all prescripts)",
+      "PP4.2": "Enables sustainable developments on precinct; less job opportunities will be created- takes score down to a 3"
+     }
+    },
+    {
+     "n": "Altaf Kumandan",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {
+      "PP1.1": "Limited technology available; Mostly imported tech; do have local skills that can sell and maintain tech; Similar to new installations such as Tygerberg",
+      "PP1.2": "Fiber system linking electronics; remotely able to operate the system from a central point; SETA component is separate to this as it has to run on a separate ethernet; So largely standalone (separate ethernet network); Protection of cyber attack - need to understand how system runs on the speed",
+      "PP2.1": "Regenerating sustainability; Risk mitigation",
+      "PP2.2": "Collaborative planning approach; supports ecosystem viability",
+      "PP2.3": "Supervisory system which makes it easier to run the hospital (makes maintenance easier); Various ways you can monitor power flow through the network",
+      "PP3.1": "Supports concept of spatial justice as makes it sustainable platform of operations within a new primary system; Derisking the facility; Improving the accessibility of Groote Schuur",
+      "PP3.2": "Same argument as principle 3.1",
+      "PP3.3": "Management contractor runs procurement process. Which is limited",
+      "PP4.1": "PFMA, Governance, all qualified audits are good (aligned to all prescripts)",
+      "PP4.2": "Enables sustainable developments on precinct; less job opportunities will be created- takes score down to a 3"
+     }
+    },
+    {
+     "n": "KD Govender-Moller",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {}
+    },
+    {
+     "n": "S van Schalkwyk",
+     "s": {
+      "PP1.1": 4,
+      "PP1.2": 5,
+      "PP2.1": 5,
+      "PP2.2": 5,
+      "PP2.3": 4,
+      "PP3.1": 4,
+      "PP3.2": 4,
+      "PP3.3": 3,
+      "PP4.1": 5,
+      "PP4.2": 3
+     },
+     "c": {
+      "PP1.1": "Limited technology available; Mostly imported tech; do have local skills that can sell and maintain tech; Similar to new installations such as Tygerberg",
+      "PP1.2": "Fiber system linking electronics; remotely able to operate the system from a central point; SETA component is separate to this as it has to run on a separate ethernet; So largely standalone (separate ethernet network); Protection of cyber attack - need to understand how system runs on the speed",
+      "PP2.1": "Regenerating sustainability; Risk mitigation",
+      "PP2.2": "Collaborative planning approach; supports ecosystem viability",
+      "PP2.3": "Supervisory system which makes it easier to run the hospital (makes maintenance easier); Various ways you can monitor power flow through the network",
+      "PP3.1": "Supports concept of spatial justice as makes it sustainable platform of operations within a new primary system; Derisking the facility; Improving the accessibility of Groote Schuur",
+      "PP3.2": "Same argument as principle 3.1",
+      "PP3.3": "Management contractor runs procurement process. Which is limited",
+      "PP4.1": "PFMA, Governance, all qualified audits are good (aligned to all prescripts)",
+      "PP4.2": "Enables sustainable developments on precinct; less job opportunities will be created- takes score down to a 3"
+     }
+    }
+   ]
+  }
+ ]
+}
